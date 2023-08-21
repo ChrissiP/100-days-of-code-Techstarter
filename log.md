@@ -21,7 +21,7 @@ Eure Christina #100DaysOfCode
 PS: Lasst uns diese Woche zu einem sprühenden Feuerwerk an Code und Kreativität machen! 💥🔥
 
 
-
+__________________________________________________________________________________________________________________________________________________________
 
 ### 18. August 2023
 
@@ -42,6 +42,8 @@ Mit voller Vorfreude auf das, was noch kommt,
 Eure Christina #100DaysOfCode
 
 PS: Die Reise hat begonnen und ich kann es kaum erwarten, noch mehr von diesem fesselnden Universum des Codes zu erkunden! 🚀🌐
+
+__________________________________________________________________________________________________________________________________________________________
 
 ### 19. August 2023
 
@@ -65,6 +67,8 @@ Eure Christina #100DaysOfCode
 
 PS: Die Werkzeuge des Codes stehen uns zur Verfügung – lass uns sie mit Bedacht nutzen, um unser kreatives Potenzial zu entfesseln! 🛠️🌈
 
+__________________________________________________________________________________________________________________________________________________________
+
 ### 20. August 2023
 
 ### 🎨 Tag 3: Farben, Schönheit und der Tanz der CSS-Selektoren!
@@ -86,6 +90,8 @@ Bis morgen, mit der Vorfreude auf noch mehr CSS-Zauber,
 Eure Christina #100DaysOfCode
 
 PS: Die Verwandlung der Webseite durch CSS ist wie ein magischer Tanz – jede Linie Code trägt zu einem atemberaubenden Gesamtbild bei! 💃🕺🎵
+
+__________________________________________________________________________________________________________________________________________________________
 
 ### 21. August 2023
 
@@ -111,6 +117,8 @@ PS: Die Coding-Workshops für Frauen sind wie eine Oase des Wissens – und die 
 
 ⏰ Die SheCodes Grundlagen Woche 1 Hausaufgaben habe ich bis zum 21. August 2023 erfolgreich gemeistert! 🚀📆
 
+__________________________________________________________________________________________________________________________________________________________
+
 ### 22. August 2023
 
 ### Tag 5: Meine Abenteuer in Workshop-Woche 2 - JavaScript im Browser und JavaScript-Variablen
@@ -135,6 +143,8 @@ Bis zum nächsten Abenteuer und happy coding! 🚀🎈
 Eure Christina #100DaysOfCode
 
 PS: Lasst uns diese faszinierende Reise gemeinsam genießen! Wenn ihr Fragen habt oder eure Gedanken teilen wollt, bin ich nur einen Tastenschlag entfernt. 🗨️🤝
+
+__________________________________________________________________________________________________________________________________________________________
 
 ### 23. August 2023
 
