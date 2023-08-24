@@ -2,7 +2,7 @@
 
 ### 17. August 2023 
 
-### 🚀 Tag 0: Aufbruch in die Welt des Codes! Workshop-Woche 1 Übersicht
+### 🚀 Tag 1: Aufbruch in die Welt des Codes! Workshop-Woche 1 Übersicht
 
 Hallöchen, wunderbare #100DaysOfCode Community!
 
@@ -25,7 +25,7 @@ ________________________________________________________________________________
 
 ### 18. August 2023
 
-### 🎉 Tag 1: Auf ins Abenteuer des Codes! Ein Gruß von unserem Coding-Kompass
+### 🎉 Tag 2: Auf ins Abenteuer des Codes! Ein Gruß von unserem Coding-Kompass
 
 Hallihallo, großartige #100DaysOfCode Community!
 
@@ -47,7 +47,7 @@ ________________________________________________________________________________
 
 ### 19. August 2023
 
-### 🔍 Tag 2: Code-Inspektion und Attribute-Magie!
+### 🔍 Tag 3: Code-Inspektion und Attribute-Magie!
 
 Hallo fantastische #100DaysOfCode Community!
 
@@ -71,7 +71,7 @@ ________________________________________________________________________________
 
 ### 20. August 2023
 
-### 🎨 Tag 3: Farben, Schönheit und der Tanz der CSS-Selektoren!
+### 🎨 Tag 4: Farben, Schönheit und der Tanz der CSS-Selektoren!
 
 Hallo wunderbare #100DaysOfCode Community!
 
@@ -95,7 +95,7 @@ ________________________________________________________________________________
 
 ### 21. August 2023
 
-### 🌟 Tag 4 (Bonus): Meilensteine, Hacks und der Tanz der Eigenschaften!
+### 🌟 Tag 5 (Bonus): Meilensteine, Hacks und der Tanz der Eigenschaften!
 
 Hallo meine wundervolle #100DaysOfCode Community!
 
@@ -121,7 +121,7 @@ ________________________________________________________________________________
 
 ### 22. August 2023
 
-### Tag 5: Meine Abenteuer in Workshop-Woche 2 - JavaScript im Browser und JavaScript-Variablen
+### Tag 6: Meine Abenteuer in Workshop-Woche 2 - JavaScript im Browser und JavaScript-Variablen
 
 Hey fantastische #100DaysOfCode Community!
 
@@ -148,7 +148,7 @@ ________________________________________________________________________________
 
 ### 23. August 2023
 
-### Tag 6: Das spannende Spiel mit JavaScript - If-Anweisungen und mehr!
+### Tag 7: Das spannende Spiel mit JavaScript - If-Anweisungen und mehr!
 
 Hallo liebe #100DaysOfCode Community!
 
@@ -174,9 +174,30 @@ PS: Der Code ist wie ein wundervolles Puzzle, das wir Stück für Stück zusamme
 
 __________________________________________________________________________________________________________________________________________________________
 ### 24. August 2023
-### Tag 7:
+### Tag 8: Die magische Welt der Logik, Funktionen und Selektoren in JavaScript
 
+Hallo an alle Coding-Enthusiasten der #100DaysOfCode Community!
+
+Was für ein aufregender Tag voller neuer Erkenntnisse und Code-Abenteuer! Heute haben wir uns in die Tiefen von JavaScript gestürzt und dabei die faszinierende Magie der logischen Operatoren, Funktionen und Selektoren entdeckt. 🌟🔍
+
+### Logische JavaScript-Operatoren: Verknüpfen von Wahrheiten
+Unsere Reise begann mit einem Blick auf die logischen Operatoren. Wie Verbindungselemente in einer Kette helfen sie uns dabei, verschiedene Bedingungen zu verknüpfen. Mit "und" (&&), "oder" (||) und "nicht" (!) können wir komplexe Bedingungen erstellen und unser Skript auf verschiedene Szenarien vorbereiten. Die logischen Operatoren sind wie die Zaubersprüche, die unser Code-Universum formen!
+
+### JavaScript-Funktionen: Der Code-Dirigent
+Eine weitere faszinierende Etappe war das Eintauchen in die Welt der JavaScript-Funktionen. Diese kleinen Helferlein sind wie Dirigenten, die den Code zum Leben erwecken. Mit Funktionen können wir Code-Blöcke gruppieren, wiederverwendbare Einheiten erstellen und so unsere Programme klarer strukturieren. Sie sind das Herzstück unserer Code-Symphonie!
+
+### JavaScript-Selektoren: Die Kunst der Zielfindung
+Und als ob das noch nicht genug wäre, haben wir auch die Geheimnisse der JavaScript-Selektoren enthüllt. Ähnlich wie in einem Schatzsuche-Spiel können wir mit Selektoren gezielt auf bestimmte Elemente in unseren Webseiten zugreifen. Ob es um das Ändern von Inhalten, Stilen oder anderen Attributen geht, Selektoren sind unsere Wegweiser im Labyrinth des DOM (Document Object Model).
+
+Die heutige Entdeckungsreise hat unser Verständnis von JavaScript erweitert und uns tiefer in die Macht und den Einfluss des Codes eintauchen lassen. Morgen setzen wir unsere Reise fort und erkunden noch mehr von dieser aufregenden Code-Landschaft!
+
+Bis morgen und weiterhin voller Enthusiasmus für den Code,
+
+Eure Christina #100DaysOfCode
+
+*PS: Jeder Tag im Code-Universum ist wie eine neue Galaxie voller Wunder. Lasst uns weiterhin die Sterne des Wissens erkunden!* 🌌🚀
 __________________________________________________________________________________________________________________________________________________________
+
 ### 25. August 2023
 ### Tag 8:
 __________________________________________________________________________________________________________________________________________________________
