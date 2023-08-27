@@ -18,7 +18,7 @@ Mit gespannter Vorfreude auf alles, was noch kommt,
 
 Eure Christina #100DaysOfCode
 
-PS: Lasst uns diese Woche zu einem sprühenden Feuerwerk an Code und Kreativität machen! 💥🔥
+### PS: Lasst uns diese Woche zu einem sprühenden Feuerwerk an Code und Kreativität machen! 💥🔥
 
 
 __________________________________________________________________________________________________________________________________________________________
@@ -41,7 +41,7 @@ Mit voller Vorfreude auf das, was noch kommt,
 
 Eure Christina #100DaysOfCode
 
-PS: Die Reise hat begonnen und ich kann es kaum erwarten, noch mehr von diesem fesselnden Universum des Codes zu erkunden! 🚀🌐
+### PS: Die Reise hat begonnen und ich kann es kaum erwarten, noch mehr von diesem fesselnden Universum des Codes zu erkunden! 🚀🌐
 
 __________________________________________________________________________________________________________________________________________________________
 
@@ -65,7 +65,7 @@ Mit einem glänzenden Blick auf die Möglichkeiten,
 
 Eure Christina #100DaysOfCode
 
-PS: Die Werkzeuge des Codes stehen uns zur Verfügung – lass uns sie mit Bedacht nutzen, um unser kreatives Potenzial zu entfesseln! 🛠️🌈
+### PS: Die Werkzeuge des Codes stehen uns zur Verfügung – lass uns sie mit Bedacht nutzen, um unser kreatives Potenzial zu entfesseln! 🛠️🌈
 
 __________________________________________________________________________________________________________________________________________________________
 
@@ -89,7 +89,7 @@ Bis morgen, mit der Vorfreude auf noch mehr CSS-Zauber,
 
 Eure Christina #100DaysOfCode
 
-PS: Die Verwandlung der Webseite durch CSS ist wie ein magischer Tanz – jede Linie Code trägt zu einem atemberaubenden Gesamtbild bei! 💃🕺🎵
+### PS: Die Verwandlung der Webseite durch CSS ist wie ein magischer Tanz – jede Linie Code trägt zu einem atemberaubenden Gesamtbild bei! 💃🕺🎵
 
 __________________________________________________________________________________________________________________________________________________________
 
@@ -113,9 +113,9 @@ Mit strahlender Vorfreude auf das, was noch kommt,
 
 Eure Christina #100DaysOfCode
 
-PS: Die Coding-Workshops für Frauen sind wie eine Oase des Wissens – und die Community ist der Schatz, den wir gemeinsam heben! 🌈👩‍💻📚
+### PS: Die Coding-Workshops für Frauen sind wie eine Oase des Wissens – und die Community ist der Schatz, den wir gemeinsam heben! 🌈👩‍💻📚
 
-⏰ Die SheCodes Grundlagen Woche 1 Hausaufgaben habe ich bis zum 21. August 2023 erfolgreich gemeistert! 🚀📆
+### ⏰ Die SheCodes Grundlagen Woche 1 Hausaufgaben habe ich bis zum 21. August 2023 erfolgreich gemeistert! 🚀📆
 
 __________________________________________________________________________________________________________________________________________________________
 
@@ -142,7 +142,7 @@ Bis zum nächsten Abenteuer und happy coding! 🚀🎈
 
 Eure Christina #100DaysOfCode
 
-PS: Lasst uns diese faszinierende Reise gemeinsam genießen! Wenn ihr Fragen habt oder eure Gedanken teilen wollt, bin ich nur einen Tastenschlag entfernt. 🗨️🤝
+### PS: Lasst uns diese faszinierende Reise gemeinsam genießen! Wenn ihr Fragen habt oder eure Gedanken teilen wollt, bin ich nur einen Tastenschlag entfernt. 🗨️🤝
 
 __________________________________________________________________________________________________________________________________________________________
 
@@ -169,7 +169,7 @@ Bis morgen und weiterhin voller Code-Begeisterung! 💡🚀
 
 Eure Christina #100DaysOfCode
 
-PS: Der Code ist wie ein wundervolles Puzzle, das wir Stück für Stück zusammensetzen. Lasst uns weiterhin neugierig und mutig sein! 🧩🧠
+### PS: Der Code ist wie ein wundervolles Puzzle, das wir Stück für Stück zusammensetzen. Lasst uns weiterhin neugierig und mutig sein! 🧩🧠
 
 
 __________________________________________________________________________________________________________________________________________________________
@@ -195,9 +195,73 @@ Bis morgen und weiterhin voller Enthusiasmus für den Code,
 
 Eure Christina #100DaysOfCode
 
-*PS: Jeder Tag im Code-Universum ist wie eine neue Galaxie voller Wunder. Lasst uns weiterhin die Sterne des Wissens erkunden!* 🌌🚀
+### PS: Jeder Tag im Code-Universum ist wie eine neue Galaxie voller Wunder. Lasst uns weiterhin die Sterne des Wissens erkunden! 🌌🚀
 __________________________________________________________________________________________________________________________________________________________
 
 ### 25. August 2023
-### Tag 8:
+### Tag 8:Zauberhafte JavaScript-Ereignisse und die Kunst des Refactorings!
+
+Hallo meine geschätzte #100DaysOfCode Community!
+
+Was für ein aufregender Tag voller neuer Einsichten und technischer Wunder! Heute haben wir uns in die faszinierende Welt der JavaScript-Ereignisse vertieft und dabei die Kunst des Refactorings erkundet. Es war, als ob wir unsere Zauberstäbe geschwungen haben, um den Code zum Leben zu erwecken und ihm gleichzeitig mehr Eleganz zu verleihen. ✨🔧
+
+### JavaScript-Ereignisse: Wenn der Code aufwacht
+Der heutige Tag führte uns in das Herzstück der Interaktivität ein – die JavaScript-Ereignisse! Mit diesen magischen Auslösern können wir auf Aktionen reagieren, sei es ein Klick, ein Tastendruck oder eine Mausbewegung. Wie Zauberer können wir die Kräfte der Ereignisse nutzen, um dynamische Webseiten zu erschaffen, die auf die Wünsche unserer Benutzer reagieren.
+
+### JavaScript-Refactoring: Das Kunstwerk des Code-Streichelns
+Ein weiterer Meilenstein war das Refactoring – die Kunst, bereits existierenden Code zu optimieren und zu verfeinern. Wir haben gelernt, wie wir unseren Code effizienter und lesbarer gestalten können, ohne seine Funktionalität zu beeinträchtigen. Refactoring ist wie das Polieren eines Edelsteins, um ihn noch strahlender erstrahlen zu lassen.
+
+Der heutige Tag war wie eine zauberhafte Sinfonie aus Aktionen und Verbesserungen. Jeder Klick, jede Zeile Code und jedes refaktorierte Stück war ein kleiner Schritt, der uns näher an die Spitze unserer Code-Kreativität brachte. Ich kann es kaum erwarten, morgen wieder in die fesselnde Welt des Codes einzutauchen und noch mehr zu lernen!
+
+Bis morgen und weiterhin voller Begeisterung für die Magie des Codes,
+
+Eure Christina #100DaysOfCode
+
+### PS: Der Code tanzt im Rhythmus der Ereignisse und glänzt durch das Refactoring. Lasst uns diesen Tanz des Wissens weiterführen! 💃🎩
+__________________________________________________________________________________________________________________________________________________________
+### 26. August 2023
+### Tag 9:Ein Blick zurück auf Workshop-Woche 2 und der Beginn der JavaScript-Hausaufgabe!
+
+Hallo liebe #100DaysOfCode Community!
+
+Heute ist ein besonderer Tag, an dem wir die vergangene Workshop-Woche 2 Revue passieren lassen und gleichzeitig den ersten Schritt in die spannende Welt des JavaScript-Workshops wagen. 🚀📚
+
+### Zusammenfassung der Workshop-Woche 2: Ein Meilenstein erreicht
+In dieser Woche haben wir gemeinsam die Tiefen von JavaScript erkundet. Vom Einbinden von JavaScript in HTML über das Manipulieren von Webseiten mit JavaScript bis hin zu logischen Operatoren, Funktionen und Selektoren – es war eine Reise voller Entdeckungen und Lernerfolge. Jeder Tag brachte uns neue Einblicke und zeigte uns, wie wir mit JavaScript das Web dynamisch gestalten können.
+
+### Hausaufgabe: Der Start des JavaScript-Workshops
+Der heutige Tag markiert auch den Beginn des JavaScript-Workshops! 🎉 Eure erste Aufgabe ist es, einen Blick auf die bereitgestellte JavaScript-Hausaufgabe zu werfen. Lasst euch von der Aufgabenstellung inspirieren und setzt eure frisch erworbenen Fähigkeiten ein, um eure eigenen kleinen Meisterwerke zu erschaffen. Denkt daran, der kreative Prozess ist genauso wichtig wie das Endergebnis!
+
+Die Reise hört hier nicht auf – sie geht erst richtig los! Der JavaScript-Workshop wird eure Fähigkeiten weiter verfeinern und euch tiefer in die Welt des Codes eintauchen lassen. Freut euch auf spannende Herausforderungen, Erfolgserlebnisse und die Möglichkeit, eure eigenen Projekte zu realisieren.
+
+Bis morgen und weiterhin mit Begeisterung im Code-Abenteuer unterwegs,
+
+Eure Christina #100DaysOfCode
+
+### PS: Die Vergangenheit ist eine Brücke, die uns in die Zukunft führt. Lasst uns die Erkenntnisse der vergangenen Woche als Grundlage für kommende Erfolge nutzen! 🌉🌟
+__________________________________________________________________________________________________________________________________________________________
+### 27. August 2023
+### Tag 10: Vertiefung in die Welt des Codes - Die JavaScript-Hausaufgabe
+
+Hallo an meine großartige #100DaysOfCode Community!
+
+Heute möchte ich euch von einem Tag erzählen, der sich ganz der Vertiefung in die Welt des Codes widmet. Es geht um nichts Geringeres als die Fortsetzung meiner JavaScript-Hausaufgabe aus dem Workshop. 💻📝
+
+###  Hausaufgabe: Workshop JavaScript weiter dran arbeiten
+Der heutige Fokus liegt auf meiner JavaScript-Hausaufgabe, die ich mit voller Begeisterung angegangen bin. Ich tauche ein in die Herausforderungen, die die Aufgabe mit sich bringt, und setze meine frisch erworbenen Kenntnisse und Fähigkeiten ein, um sie zu bewältigen. Es ist, als würde ich an einem Puzzlespiel arbeiten, bei dem jedes Stück Code einen Platz findet, um das Gesamtbild zu vervollständigen.
+
+Während ich an meiner Aufgabe arbeite, erweitere ich nicht nur meine technischen Fähigkeiten, sondern lerne auch, wie man Geduld und Durchhaltevermögen im Code-Abenteuer kultiviert. Jede Zeile Code, jeder Schritt, den ich vorwärtsgehe, ist ein kleiner Triumph, der mich dem Ziel näher bringt.
+
+Die JavaScript-Welt ist wie ein zauberhafter Spielplatz, auf dem ich mich kreativ austoben kann. Die Kombination aus logischem Denken, Kreativität und technischem Know-how macht das Coden zu einer einzigartigen Erfahrung, die ich jeden Tag mehr genieße.
+
+Ich freue mich darauf, meine Hausaufgabe zu vervollkommnen und neue Erkenntnisse zu gewinnen. Die Reise im Code-Universum geht weiter, und ich bin bereit für alles, was noch kommt!
+
+Bis morgen und weiterhin mit großer Leidenschaft im Code-Abenteuer,
+
+Eure Christina #100DaysOfCode
+
+### PS: Jeder Tag im Code ist eine Gelegenheit, zu lernen, zu wachsen und sich in der Kunst des Codens zu vertiefen. Lasst uns gemeinsam den Code-Horizont erweitern! 🌌🚀
+__________________________________________________________________________________________________________________________________________________________
+### 28. August 2023
+### Tag 11:
 __________________________________________________________________________________________________________________________________________________________
